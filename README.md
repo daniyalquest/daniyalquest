@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App-CitiGuide<br>🌱 I’m currently learning ReactJS<br>🤝 I’m looking for help with MERN Stack<br>👨‍💻 All of my projects are available at [github.com/Daniyal2472](https://github.com/Daniyal2472)<br>💬 Ask me about Photography<br>📫 How to reach me daniyal2472@gmail.com
+🔭 I’m currently working on App-CitiGuide<br>🌱 I’m currently learning MERN Stack<br>🤝 I’m looking for help with MERN Stack<br>👨‍💻 All of my projects are available at [github.com/Daniyal2472](https://github.com/Daniyal2472)<br>💬 Ask me about Photography<br>📫 How to reach me daniyal2472@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daniyalquest) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/daniyalquest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyalquest)
